@@ -12,7 +12,7 @@ A simple and responsive web-based contact form for collecting user information a
 ## Technologies Used
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap  
 Feel free to contribute, report issues, or suggest improvements to enhance the functionality and usability of this contact form.
 ## Try it out 
 Try this website by clicking [here](https://harshit2012.github.io/Contact_form/)
